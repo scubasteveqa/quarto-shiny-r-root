@@ -6,6 +6,7 @@
     "primary_rmd": "shiny-old-faithful.qmd",
     "primary_html": null,
     "content_category": null,
+    "platform": "4.5.2",
     "has_parameters": false
   },
   "quarto": {
